@@ -1,1 +1,1 @@
-### In this project, I utilized the offsetTop and scrollY properties to create a fixed navigation after a certain distance is scrolled.
+### The sticky nav Project utilized the offsetTop and scrollY properties to create a fixed navigation after a certain distance is scrolled.
